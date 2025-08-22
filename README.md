@@ -17,16 +17,16 @@ I’ve shipped multiple AI-powered projects focusing on **performance, clean arc
 ## ⚡ Tech I Use  
 
 **Frontend:** React, Next.js, TypeScript, Tailwind, Shadcn UI, Framer Motion  
-**Backend / Infra:** Firebase, Supabase, Node.js (in Progress, Go & Python next)  
+**Backend / Infra:** Firebase, Supabase, Node.js, (Go & Python next).  
 **Tools:** Git, GitHub, Clerk, Zod, React Hook Form, Axios, Tanstack Query  
 
 ---
 
 ## 🌱 What’s Next  
 
-- Leveling up backend systems with Node.js & Go  
-- Contributing to open-source projects  
-- Exploring AI-driven apps & developer tools  
+- Expanding expertise in backend systems with Node.js & Go.
+- Contributing to open-source projects.  
+- Exploring AI-driven apps & developer tools.  
 
 ---
 
