@@ -11,7 +11,7 @@ I’ve shipped multiple AI-powered projects focusing on **performance, clean arc
 - **[Path AI](https://github.com/YounessBrunno/AI-Trip-Planner)** — AI Trip Planner (React, Firebase, Gemini API, Google Auth)
 - **[Vetra](https://github.com/YounessBrunno/Ai-Mock-Interview)** — AI Mock Interview Platform (TypeScript, React, Clerk, Zod, Firebase)  
 - **[Axiom](https://github.com/YounessBrunno/)** — SaaS Landing Page with rich animations (React, Shadcn UI, Framer Motion)
--  **and more...  
+- and more...  
 
 ---
 
