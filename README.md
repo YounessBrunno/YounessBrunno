@@ -9,7 +9,7 @@ I’ve shipped multiple AI-powered projects focusing on **performance, clean arc
 
 - **[Velar](https://github.com/YounessBrunno/Velar-Perfume-explorer)** (still in dev) — Perfume Explorer (Next.js (Fullstack), Typescript, Firebase (Firestore), Supabase(Storage), NextAuth)
 - **[Path AI](https://github.com/YounessBrunno/AI-Trip-Planner)** — AI Trip Planner (React, Firebase, Gemini API, Google Auth)
-- **[Vetra](https://github.com/YounessBrunno/Ai-Mock-Interview)** — AI Mock Interview Platform (TypeScript, React, Clerk, Zod, Firebase)  
+- **[Vetra](https://github.com/YounessBrunno/Ai-Mock-Interview)** — AI Mock Interview Platform (TypeScript, React, Clerk Auth, Zod, Firebase)  
 - **[Axiom](https://github.com/YounessBrunno/)** — SaaS Landing Page with rich animations (React, Shadcn UI, Framer Motion)
 - and more...  
 
