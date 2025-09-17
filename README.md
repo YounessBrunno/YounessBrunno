@@ -11,6 +11,7 @@ I’ve shipped multiple AI-powered projects focusing on **performance, clean arc
 - **[Path AI](https://github.com/YounessBrunno/AI-Trip-Planner)** — AI Trip Planner (React, Firebase, Gemini API, Google Auth)
 - **[Vetra](https://github.com/YounessBrunno/Ai-Mock-Interview)** — AI Mock Interview Platform (TypeScript, React, Clerk Auth, Zod, Firebase)  
 - **[Axiom](https://github.com/YounessBrunno/)** — SaaS Landing Page with rich animations (React, Shadcn UI, Framer Motion)
+- **[Vanilla Node.js Static Server](https://github.com/YounessBrunno/vanilla-node.js-static-server)** — Custom static file server built from scratch in Node.js (no frameworks). Features MIME type detection, efficient file  streaming, dynamic directory listings, and custom 404 error pages. A lightweight Apache-style server implemented entirely in vanilla Node.js.
 - and more...  
 
 ---
