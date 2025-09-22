@@ -13,7 +13,6 @@ I’ve shipped multiple AI-powered projects focusing on **performance, clean arc
 - **[Axiom](https://github.com/YounessBrunno/)** — SaaS Landing Page with rich animations (React, Shadcn UI, Framer Motion)
 - **[Vanilla Node.js Static Server](https://github.com/YounessBrunno/vanilla-node.js-static-server)** — Custom static file server built from scratch in Node.js (no frameworks). Features MIME type detection, efficient file  streaming, dynamic directory listings, and custom 404 error pages. A lightweight Apache-style server implemented entirely in vanilla Node.js.
 - **[Vanilla Node.js Task Manager API](https://github.com/YounessBrunno/vanilla-node.js-task-manager-rest-api)** — Task Manager REST API with authentication, role-based access, analytics, logging, and file-based JSON storage. Built entirely with Node.js core modules (`http`, `fs`, `crypto`, `events`, `url`, `path`) — no frameworks.
-
 - and more...  
 
 ---
