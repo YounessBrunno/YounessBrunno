@@ -8,8 +8,7 @@ I’ve shipped multiple AI-powered projects focusing on **performance, clean arc
 ## 🚀 Featured Projects  
 
 - **[Velar](https://github.com/YounessBrunno/Velar-Perfume-explorer)** — Perfume Explorer web app to browse, filter, and discover fragrances. Built as a fullstack Next.js application with TypeScript, Firebase (Firestore), Supabase (Storage), and NextAuth for authentication. *(still in development)*
-
-- **[Path AI](https://github.com/YounessBrunno/AI-Trip-Planner)** — AI Trip Planner (React, Firebase, Gemini API, Google Auth)
+- **[Path AI](https://github.com/YounessBrunno/AI-Trip-Planner)** — AI-powered trip planner that generates personalized travel itineraries using the Gemini API. Features authentication with Google and real-time storage with Firebase.
 - **[Vetra](https://github.com/YounessBrunno/Ai-Mock-Interview)** — AI Mock Interview Platform (TypeScript, React, Clerk Auth, Zod, Firebase)  
 - **[Axiom](https://github.com/YounessBrunno/)** — SaaS Landing Page with rich animations (React, Shadcn UI, Framer Motion)
 - **[Vanilla Node.js Static Server](https://github.com/YounessBrunno/vanilla-node.js-static-server)** — Custom static file server built from scratch in Node.js (no frameworks). Features MIME type detection, efficient file  streaming, dynamic directory listings, and custom 404 error pages. A lightweight Apache-style server implemented entirely in vanilla Node.js.
