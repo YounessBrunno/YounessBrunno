@@ -9,8 +9,8 @@ I’ve shipped multiple AI-powered projects focusing on **performance, clean arc
 
 - **[Velar](https://github.com/YounessBrunno/Velar-Perfume-explorer)** — Perfume Explorer web app to browse, filter, and discover fragrances. Built as a fullstack Next.js application with TypeScript, Firebase (Firestore), Supabase (Storage), and NextAuth for authentication. *(still in development)*
 - **[Path AI](https://github.com/YounessBrunno/AI-Trip-Planner)** — AI-powered trip planner that generates personalized travel itineraries using the Gemini API. Features authentication with Google and real-time storage with Firebase.
-- **[Vetra](https://github.com/YounessBrunno/Ai-Mock-Interview)** — AI Mock Interview Platform (TypeScript, React, Clerk Auth, Zod, Firebase)  
-- **[Axiom](https://github.com/YounessBrunno/)** — SaaS Landing Page with rich animations (React, Shadcn UI, Framer Motion)
+- **[Vetra](https://github.com/YounessBrunno/Ai-Mock-Interview)** — AI Mock Interview platform that simulates real interview sessions. Includes secure authentication with Clerk, schema validation with Zod, and data management with Firebase.
+- **[Axiom](https://github.com/YounessBrunno/)** — SaaS landing page with rich animations and a modern UI. Built with React, Shadcn UI components, and Framer Motion for smooth, interactive experiences.
 - **[Vanilla Node.js Static Server](https://github.com/YounessBrunno/vanilla-node.js-static-server)** — Custom static file server built from scratch in Node.js (no frameworks). Features MIME type detection, efficient file  streaming, dynamic directory listings, and custom 404 error pages. A lightweight Apache-style server implemented entirely in vanilla Node.js.
 - **[Vanilla Node.js Task Manager API](https://github.com/YounessBrunno/vanilla-node.js-task-manager-rest-api)** — Task Manager REST API with authentication, role-based access, analytics, logging, and file-based JSON storage. Built entirely with Node.js core modules (`http`, `fs`, `crypto`, `events`, `url`, `path`) — no frameworks.
 - and more...  
