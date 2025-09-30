@@ -21,7 +21,7 @@ I’ve shipped multiple AI-powered projects focusing on **performance, clean arc
 
 - **Frontend:** React, Next.js, TypeScript, Tailwind, Shadcn UI, Framer Motion  
 - **Backend / Infra:** Firebase, Supabase, Node.js, (Go next)  
-- **Tools:** Git, GitHub, Postman, Clerk, Zod, React Hook Form, Axios, Tanstack Query
+- **Tools:** Git, GitHub, Postman, Zod, React Hook Form, Axios, Tanstack Query
 
 
 ---
