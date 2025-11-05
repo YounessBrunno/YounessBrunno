@@ -1,7 +1,7 @@
 # Hi, I’m Youness 👋  
 
 I’m an 18-year-old self-taught **Software Engineer** passionate about building **scalable, user-first web apps**.  
-I’ve shipped multiple AI-powered projects focusing on **performance, clean architecture, and accessibility**.  
+I’ve shipped multiple AI-powered projects focusing on **performance, clean architecture, and accessibility**.
 
 ---
 
