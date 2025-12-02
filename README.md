@@ -6,7 +6,7 @@ I’ve shipped multiple AI-powered projects focusing on **performance, clean arc
 ---
 
 ## 🚀 Featured Projects  
-
+- **[Sentivio](https://github.com/YounessBrunno/Sentivio-)** — web app to browse, filter, and discover fragrances. Built as a fullstack Next.js application with TypeScript, Firebase 
 - **[Velar Perfume Explorer](https://github.com/YounessBrunno/Velar-Perfume-explorer)** — web app to browse, filter, and discover fragrances. Built as a fullstack Next.js application with TypeScript, Firebase (Firestore), Supabase (Storage), and NextAuth for authentication.
 - **[Path AI](https://github.com/YounessBrunno/AI-Trip-Planner)** — AI-powered trip planner that generates personalized travel itineraries using the Gemini API. Features authentication with Google and real-time storage with Firebase.
 - **[Cortex Graph API](https://github.com/YounessBrunno/cortex-graph-api)** — Smart knowledge graph API that transforms notes, tasks, and insights into a structured, queryable knowledge network. Built with Express, PostgreSQL, Zod, and Docker.
