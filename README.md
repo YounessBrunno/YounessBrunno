@@ -34,8 +34,3 @@ I’ve shipped multiple AI-powered projects focusing on **performance, clean arc
 - Learning and deploying projects on cloud platforms (AWS, GCP, or Azure).
 
 ---
-
-📫 **Let’s connect!**  
-- Email: [younessoukhadjouu@gmail.com](mailto:younessoukhadjouu@gmail.com)  
-- GitHub: [YounessBrunno](https://github.com/YounessBrunno)  
-- LinkedIn: [Youness Oukhadjou](https://www.linkedin.com/in/youness-oukhadjou/)  
