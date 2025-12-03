@@ -29,9 +29,9 @@ I’ve shipped multiple AI-powered projects focusing on **performance, clean arc
 
 ## 🌱 What’s Next  
 
-- Expanding expertise in backend systems with Node.js & Go.
-- Contributing to open-source projects.  
-- Exploring AI-driven apps & developer tools.  
+- Exploring distributed systems & microservices with Go and Nest.js.
+- Deepening knowledge of scalable architectures and high-performance backend patterns.
+- Learning and deploying projects on cloud platforms (AWS, GCP, or Azure).
 
 ---
 
