@@ -1,8 +1,30 @@
 # 👋 Hi, I'm Youness
 
-🚀 **Self-taught Software Engineer (18 y/o)**  
-Focused on building **scalable, user-first, high-performance web applications**.  
-Experienced in **AI-powered systems, backend architecture, and modern full-stack development**.
+## 🧠 About Me
+
+I'm a **self-taught Software Engineer (18 y/o)** focused on building **scalable, high-performance, and user-first web applications**.
+
+I work primarily across **backend-heavy full-stack systems**, with strong experience in **AI-powered pipelines, system design, and modern web architecture**. I care deeply about **clean abstractions, correctness, and long-term maintainability**, not just shipping features.
+
+I enjoy building things from first principles — whether it’s a **vanilla Node.js server**, a **knowledge graph API**, or a **distributed video processing system**.
+
+---
+
+## 🔧 What I’m Working On
+
+- Designing **AI-driven video and data processing pipelines**
+- Improving **backend scalability and job orchestration**
+- Building **production-grade full-stack applications**
+- Exploring **system design, distributed systems, and microservices**
+- Deepening knowledge in **cloud-native architectures**
+
+---
+
+## 🎯 Vision
+
+Over the next few years, my goal is to grow into a **high-impact software engineer** working on **large-scale systems** — contributing to products where **performance, reliability, and architecture actually matter**.
+
+I aim to specialize in **backend systems, platform engineering, and AI-powered infrastructure**, while continuing to sharpen my frontend skills to deliver complete, user-focused experiences.
 
 ---
 
@@ -30,16 +52,9 @@ Experienced in **AI-powered systems, backend architecture, and modern full-stack
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-111?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-111?style=flat&logo=next.js)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-111?style=flat&logo=tailwindcss)
-![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-111?style=flat)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-111?style=flat&logo=framer)
-
----
-
-### 🧪 Validation & State
-![Zod](https://img.shields.io/badge/Zod-111?style=flat)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-111?style=flat)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-111?style=flat)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111?style=flat&logo=tailwindcss)
+![Shadcn_UI](https://img.shields.io/badge/Shadcn_UI-111?style=flat)
+![Framer_Motion](https://img.shields.io/badge/Framer_Motion-111?style=flat&logo=framer)
 
 ---
 
@@ -52,35 +67,31 @@ Experienced in **AI-powered systems, backend architecture, and modern full-stack
 
 ## 🚀 Featured Projects
 
-### 🧠 Sentivio – Emotion Analyzer  
-🔗 https://github.com/YounessBrunno/Sentivio-Emotion-Analyzer  
-Professional-grade emotional intelligence system that processes videos and generates **emotion timelines, summaries, and analytics dashboards**, focused strictly on emotion — **never identity**.
+### 🧠 [Sentivio – Emotion Analyzer](https://github.com/YounessBrunno/Sentivio-Emotion-Analyzer)
+A **professional-grade emotional intelligence system** that processes videos to extract emotional states over time.  
+Generates **emotion timelines, summaries, and analytics dashboards**, with a strict focus on emotion — **never identity**.
 
 ---
 
-### 🌸 Velar – Perfume Explorer  
-🔗 https://github.com/YounessBrunno/Velar-Perfume-explorer  
-Full-stack fragrance discovery platform with filtering, authentication, and modern UI.
+### 🌸 [Velar – Perfume Explorer](https://github.com/YounessBrunno/Velar-Perfume-explorer)
+A full-stack fragrance discovery platform designed for **search, filtering, and exploration**, with modern authentication and storage workflows.
 
 ---
 
-### ✈️ Path AI – Trip Planner  
-🔗 https://github.com/YounessBrunno/AI-Trip-Planner  
-AI-powered travel planner generating personalized itineraries using Gemini API.
+### ✈️ [Path AI – Trip Planner](https://github.com/YounessBrunno/AI-Trip-Planner)
+An AI-powered travel planner that generates **personalized itineraries** using modern LLM APIs and real-time data storage.
 
 ---
 
-### 🧩 Cortex Graph API  
-🔗 https://github.com/YounessBrunno/cortex-graph-api  
-Knowledge graph API transforming notes and tasks into a structured, queryable network.
+### 🧩 [Cortex Graph API](https://github.com/YounessBrunno/cortex-graph-api)
+A backend-first **knowledge graph API** that transforms notes and tasks into a **structured, queryable network**.
 
 ---
 
-### ⚙️ Vanilla Node.js Static Server  
-🔗 https://github.com/YounessBrunno/vanilla-node.js-static-server  
-Apache-style static server built entirely with Node.js core modules (no frameworks).
+### ⚙️ [Vanilla Node.js Static Server](https://github.com/YounessBrunno/vanilla-node.js-static-server)
+A lightweight **Apache-style static server** built entirely with **Node.js core modules** — no frameworks, no abstractions.
 
 ---
 
-⭐ Always building. Always learning.
+⭐ **Always building. Always learning.**
 
