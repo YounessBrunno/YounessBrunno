@@ -1,10 +1,13 @@
 # 👋 Hi, I'm Youness
 
-## 🧠 About Me
+👨‍💻 About Me
 
-I'm a **Software Engineer** focused on building **scalable, high-performance Systems**.
+Hello, I’m Youness, a Software Engineer focused on building scalable, high-performance, and reliable systems.
 
-I work primarily across **backend-heavy full-stack systems**, with strong experience in **AI-powered pipelines, system design, and modern web architecture**. I care deeply about **clean abstractions, correctness, and long-term maintainability**, not just shipping features.
+I work primarily as a **full-stack engineer with a strong backend focus**, using **TypeScript, Node.js, Express, NestJS, React, and Next.js** to design and ship production-ready applications. My experience spans API design, backend architecture, frontend integration, and building end-to-end features with a strong emphasis on correctness and maintainability.
+
+I have hands-on experience with **databases and infrastructure**, including **PostgreSQL, Redis, Firebase, Supabase, and Docker**, and I’m comfortable working with background jobs, queues, and data-intensive workflows. I care deeply about **clean architecture, system design, and performance**, and I enjoy building systems that are easy to scale, test, and evolve over time.
+
 
 ## 🧠 My Skills
 
@@ -41,6 +44,8 @@ I work primarily across **backend-heavy full-stack systems**, with strong experi
 ![Git](https://img.shields.io/badge/Git-111?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=flat&logo=github)
 ![Postman](https://img.shields.io/badge/Postman-111?style=flat&logo=postman)
+![Jest](https://img.shields.io/badge/Jest-111?style=flat&logo=jest)
+
 
 ---
 
