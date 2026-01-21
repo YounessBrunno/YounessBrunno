@@ -2,9 +2,9 @@
 
 👨‍💻 About Me
 
-Hello, I’m Youness, a Software Engineer focused on building scalable, high-performance, and reliable systems.
+Hello, I’m a Software Engineer focused on building scalable, high-performance, and reliable systems.
 
-I work primarily as a **full-stack engineer with a strong backend focus**, using **TypeScript, Node.js, Express, NestJS, React, and Next.js** to design and ship production-ready applications. My experience spans API design, backend architecture, frontend integration, and building end-to-end features with a strong emphasis on correctness and maintainability.
+I work primarily as a **software engineer with a strong backend focus**, using **TypeScript, Node.js, Express, NestJS, React, and Next.js** to design and ship production-ready applications. My experience spans API design, backend architecture, frontend integration, and building end-to-end features with a strong emphasis on correctness and maintainability.
 
 I have hands-on experience with **databases and infrastructure**, including **PostgreSQL, Redis, Firebase, Supabase, and Docker**, and I’m comfortable working with background jobs, queues, and data-intensive workflows. I care deeply about **clean architecture, system design, and performance**, and I enjoy building systems that are easy to scale, test, and evolve over time.
 
