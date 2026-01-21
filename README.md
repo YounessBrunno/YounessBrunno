@@ -2,11 +2,9 @@
 
 ## 🧠 About Me
 
-I'm a **self-taught Software Engineer (18 y/o)** focused on building **scalable, high-performance, and user-first web applications**.
+I'm a **Software Engineer** focused on building **scalable, high-performance Systems**.
 
 I work primarily across **backend-heavy full-stack systems**, with strong experience in **AI-powered pipelines, system design, and modern web architecture**. I care deeply about **clean abstractions, correctness, and long-term maintainability**, not just shipping features.
-
-I enjoy building things from first principles — whether it’s a **vanilla Node.js server**, a **knowledge graph API**, or a **distributed video processing system**.
 
 ---
 
