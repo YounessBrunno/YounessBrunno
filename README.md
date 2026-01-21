@@ -1,36 +1,123 @@
-# Hi 👋 , I’m Youness
+# Hi 👋, I’m Youness
 
-I’m an 18-year-old self-taught **Software Engineer** passionate about building **scalable, user-first web apps**.  
-I’ve shipped multiple AI-powered projects focusing on **performance, clean architecture, and accessibility**.
-
----
-
-## 🚀 Featured Projects  
-- **[Sentivio-Emotion-Analyzer](https://github.com/YounessBrunno/Sentivio-Emotion-Analyzer)** — Sentivio is a high-level emotional intelligence system that  processes any video, interprets emotional states over time, and generates timelines, summaries, and analytics dashboard focusing solely on emotion, never identity. Designed as a professional-grade emotion-insight engine.
-- **[Velar Perfume Explorer](https://github.com/YounessBrunno/Velar-Perfume-explorer)** — web app to browse, filter, and discover fragrances. Built as a fullstack Next.js application with TypeScript, Firebase (Firestore), Supabase (Storage), and NextAuth for authentication.
-- **[Path AI](https://github.com/YounessBrunno/AI-Trip-Planner)** — AI-powered trip planner that generates personalized travel itineraries using the Gemini API. Features authentication with Google and real-time storage with Firebase.
-- **[Cortex Graph API](https://github.com/YounessBrunno/cortex-graph-api)** — Smart knowledge graph API that transforms notes, tasks, and insights into a structured, queryable knowledge network. Built with Express, PostgreSQL, Zod, and Docker.
-- **[Vetra](https://github.com/YounessBrunno/Ai-Mock-Interview)** — AI Mock Interview platform that simulates real interview sessions. Includes secure authentication with Clerk, schema validation with Zod, and data management with Firebase.
-- **[Axiom](https://github.com/YounessBrunno/)** — SaaS landing page with rich animations and a modern UI. Built with React, Shadcn UI components, and Framer Motion for smooth, interactive experiences.
-- **[Vanilla Node.js Static Server](https://github.com/YounessBrunno/vanilla-node.js-static-server)** — Custom static file server built from scratch in Node.js (no frameworks). Features MIME type detection, efficient file  streaming, dynamic directory listings, and custom 404 error pages. A lightweight Apache-style server implemented entirely in vanilla Node.js.
-- **[Vanilla Node.js Task Manager API](https://github.com/YounessBrunno/vanilla-node.js-task-manager-rest-api)** — Task Manager REST API with authentication, role-based access, analytics, logging, and file-based JSON storage. Built entirely with Node.js core modules (`http`, `fs`, `crypto`, `events`, `url`, `path`) — no frameworks.
-- and more...  
+🚀 **Self-taught Software Engineer (18 y/o)**  
+I build **scalable, user-first web applications** with a strong focus on **performance, clean architecture, and accessibility**.  
+I’ve shipped multiple **AI-powered products**, from real-time systems to production-ready SaaS platforms.
 
 ---
 
-## ⚡ Tech I Use  
+## 🧠 Core Tech Stack
 
-- **Frontend:** React, Next.js, TypeScript, Tailwind, Shadcn UI, Framer Motion  
-- **Backend / Infra:** Firebase, Supabase, Node.js, Express.js, Nest.js, PostgreSQL
-- **Tools:** Git, GitHub, Docker, Postman, Zod, React Hook Form, Axios, Tanstack Query
+### 🎨 Frontend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+  <img src="https://ui.shadcn.com/favicon.ico" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+</p>
 
+### 🧩 Backend & Infrastructure
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://supabase.com/favicon.ico" width="40"/>
+</p>
+
+### 🛠 Tools & Libraries
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
+</p>
+
+**Also using:** Zod, React Hook Form, Axios, TanStack Query, Clerk, Framer Motion
 
 ---
 
-## 🌱 What’s Next  
+## 🚀 Featured Projects
 
-- Exploring distributed systems & microservices with Go and Nest.js.
-- Deepening knowledge of scalable architectures and high-performance backend patterns.
-- Learning and deploying projects on cloud platforms (AWS, GCP, or Azure).
+### 🧠 **Sentivio – Emotion Analyzer**
+🔗 https://github.com/YounessBrunno/Sentivio-Emotion-Analyzer  
+A **professional-grade emotional intelligence system** that processes videos to extract emotional states over time.  
+Generates **emotion timelines, summaries, and analytics dashboards** — focused strictly on **emotion, never identity**.
+
+**Tech:** Next.js, AI models, video processing pipelines, scalable backend design
 
 ---
+
+### 🌸 **Velar – Perfume Explorer**
+🔗 https://github.com/YounessBrunno/Velar-Perfume-explorer  
+A full-stack fragrance discovery platform with advanced filtering and search.
+
+**Tech:** Next.js, TypeScript, Firebase (Firestore), Supabase (Storage), NextAuth
+
+---
+
+### ✈️ **Path AI – Trip Planner**
+🔗 https://github.com/YounessBrunno/AI-Trip-Planner  
+AI-powered travel planner generating personalized itineraries using the **Gemini API**.
+
+**Tech:** Firebase, Google Auth, AI APIs
+
+---
+
+### 🧩 **Cortex Graph API**
+🔗 https://github.com/YounessBrunno/cortex-graph-api  
+A **knowledge graph API** that turns notes and tasks into a structured, queryable graph.
+
+**Tech:** Express, PostgreSQL, Zod, Docker
+
+---
+
+### 🎤 **Vetra – AI Mock Interview**
+🔗 https://github.com/YounessBrunno/Ai-Mock-Interview  
+Simulates real interview sessions using AI with secure auth and structured validation.
+
+**Tech:** Clerk, Firebase, Zod
+
+---
+
+### 🎨 **Axiom – SaaS Landing Page**
+🔗 https://github.com/YounessBrunno/  
+High-conversion SaaS landing page with modern UI and rich animations.
+
+**Tech:** React, Shadcn UI, Framer Motion
+
+---
+
+### ⚙️ **Vanilla Node.js Static Server**
+🔗 https://github.com/YounessBrunno/vanilla-node.js-static-server  
+A lightweight **Apache-style static server** built entirely with Node.js core modules.
+
+**Features:**  
+- MIME type detection  
+- Efficient file streaming  
+- Dynamic directory listings  
+- Custom 404 pages  
+
+---
+
+### 📦 **Vanilla Node.js Task Manager API**
+🔗 https://github.com/YounessBrunno/vanilla-node.js-task-manager-rest-api  
+REST API with authentication, RBAC, analytics, and logging — **no frameworks**.
+
+**Tech:** `http`, `fs`, `crypto`, `events`, `url`, `path`
+
+---
+
+## 🌱 What I’m Exploring Next
+
+- Distributed systems & microservices (Go + Nest.js)
+- High-performance backend patterns
+- Cloud deployments (AWS, GCP, Azure)
+
+---
+
+⭐ **Always building. Always learning.**
+
