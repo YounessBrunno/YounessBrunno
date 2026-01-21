@@ -6,26 +6,6 @@ I'm a **Software Engineer** focused on building **scalable, high-performance Sys
 
 I work primarily across **backend-heavy full-stack systems**, with strong experience in **AI-powered pipelines, system design, and modern web architecture**. I care deeply about **clean abstractions, correctness, and long-term maintainability**, not just shipping features.
 
----
-
-## 🔧 What I’m Working On
-
-- Designing **AI-driven video and data processing pipelines**
-- Improving **backend scalability and job orchestration**
-- Building **production-grade full-stack applications**
-- Exploring **system design, distributed systems, and microservices**
-- Deepening knowledge in **cloud-native architectures**
-
----
-
-## 🎯 Vision
-
-Over the next few years, my goal is to grow into a **high-impact software engineer** working on **large-scale systems** — contributing to products where **performance, reliability, and architecture actually matter**.
-
-I aim to specialize in **backend systems, platform engineering, and AI-powered infrastructure**, while continuing to sharpen my frontend skills to deliver complete, user-focused experiences.
-
----
-
 ## 🧠 My Skills
 
 ### 🔤 Languages
