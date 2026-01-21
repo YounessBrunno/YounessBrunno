@@ -32,7 +32,7 @@ I work primarily across **backend-heavy full-stack systems**, with strong experi
 ![React](https://img.shields.io/badge/React-111?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-111?style=flat&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111?style=flat&logo=tailwindcss)
-![Shadcn_UI](https://img.shields.io/badge/Shadcn_UI-111?style=flat)
+![Shadcn_UI](https://img.shields.io/badge/Shadcn_UI-111?style=shadcn)
 ![Framer_Motion](https://img.shields.io/badge/Framer_Motion-111?style=flat&logo=framer)
 
 ---
