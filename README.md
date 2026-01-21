@@ -44,33 +44,16 @@ I work primarily across **backend-heavy full-stack systems**, with strong experi
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧠 [Sentivio – Emotion Analyzer](https://github.com/YounessBrunno/Sentivio-Emotion-Analyzer)
-A **professional-grade emotional intelligence system** that processes videos to extract emotional states over time.  
-Generates **emotion timelines, summaries, and analytics dashboards**, with a strict focus on emotion — **never identity**.
-
----
-
-### 🌸 [Velar – Perfume Explorer](https://github.com/YounessBrunno/Velar-Perfume-explorer)
-A full-stack fragrance discovery platform designed for **search, filtering, and exploration**, with modern authentication and storage workflows.
-
----
-
-### ✈️ [Path AI – Trip Planner](https://github.com/YounessBrunno/AI-Trip-Planner)
-An AI-powered travel planner that generates **personalized itineraries** using modern LLM APIs and real-time data storage.
+## 🚀 Featured Projects  
+- **[Sentivio-Emotion-Analyzer](https://github.com/YounessBrunno/Sentivio-Emotion-Analyzer)** — Sentivio is a high-level emotional intelligence system that  processes any video, interprets emotional states over time, and generates timelines, summaries, and analytics dashboard focusing solely on emotion, never identity. Designed as a professional-grade emotion-insight engine.
+- **[Velar Perfume Explorer](https://github.com/YounessBrunno/Velar-Perfume-explorer)** — web app to browse, filter, and discover fragrances. Built as a fullstack Next.js application with TypeScript, Firebase (Firestore), Supabase (Storage), and NextAuth for authentication.
+- **[Path AI](https://github.com/YounessBrunno/AI-Trip-Planner)** — AI-powered trip planner that generates personalized travel itineraries using the Gemini API. Features authentication with Google and real-time storage with Firebase.
+- **[Cortex Graph API](https://github.com/YounessBrunno/cortex-graph-api)** — Smart knowledge graph API that transforms notes, tasks, and insights into a structured, queryable knowledge network. Built with Express, PostgreSQL, Zod, and Docker.
+- **[Vetra](https://github.com/YounessBrunno/Ai-Mock-Interview)** — AI Mock Interview platform that simulates real interview sessions. Includes secure authentication with Clerk, schema validation with Zod, and data management with Firebase.
+- **[Axiom](https://github.com/YounessBrunno/)** — SaaS landing page with rich animations and a modern UI. Built with React, Shadcn UI components, and Framer Motion for smooth, interactive experiences.
+- **[Vanilla Node.js Static Server](https://github.com/YounessBrunno/vanilla-node.js-static-server)** — Custom static file server built from scratch in Node.js (no frameworks). Features MIME type detection, efficient file  streaming, dynamic directory listings, and custom 404 error pages. A lightweight Apache-style server implemented entirely in vanilla Node.js.
+- **[Vanilla Node.js Task Manager API](https://github.com/YounessBrunno/vanilla-node.js-task-manager-rest-api)** — Task Manager REST API with authentication, role-based access, analytics, logging, and file-based JSON storage. Built entirely with Node.js core modules (`http`, `fs`, `crypto`, `events`, `url`, `path`) — no frameworks.
+- and more...  
 
 ---
-
-### 🧩 [Cortex Graph API](https://github.com/YounessBrunno/cortex-graph-api)
-A backend-first **knowledge graph API** that transforms notes and tasks into a **structured, queryable network**.
-
----
-
-### ⚙️ [Vanilla Node.js Static Server](https://github.com/YounessBrunno/vanilla-node.js-static-server)
-A lightweight **Apache-style static server** built entirely with **Node.js core modules** — no frameworks, no abstractions.
-
----
-
-⭐ **Always building. Always learning.**
 
