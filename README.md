@@ -31,7 +31,7 @@ I aim to specialize in **backend systems, platform engineering, and AI-powered i
 ### 🔤 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat&logo=typescript)
-![Python](https://img.shields.io/badge/Python-111?style=flat&logo=python)
+![Go](https://img.shields.io/badge/Go-111?style=flat&logo=go)
 ![SQL](https://img.shields.io/badge/SQL-111?style=flat&logo=postgresql)
 
 ---
@@ -41,6 +41,7 @@ I aim to specialize in **backend systems, platform engineering, and AI-powered i
 ![Express](https://img.shields.io/badge/Express-111?style=flat&logo=express)
 ![NestJS](https://img.shields.io/badge/NestJS-111?style=flat&logo=nestjs)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=flat&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-111?style=flat&logo=redis)
 ![Firebase](https://img.shields.io/badge/Firebase-111?style=flat&logo=firebase)
 ![Supabase](https://img.shields.io/badge/Supabase-111?style=flat&logo=supabase)
 ![Docker](https://img.shields.io/badge/Docker-111?style=flat&logo=docker)
