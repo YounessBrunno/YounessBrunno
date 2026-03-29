@@ -10,40 +10,22 @@ I have hands-on experience with **databases and infrastructure**, including **Po
 ## 🧠 My Skills
 
 ### 🔤 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-111?style=flat&logo=typescript)
-![Go](https://img.shields.io/badge/Go-111?style=flat&logo=go)
-![SQL](https://img.shields.io/badge/SQL-111?style=flat&logo=postgresql)
+[![Languages](https://skillicons.dev/icons?i=js,ts,go,postgres)](https://skillicons.dev)
 
 ---
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-111?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express-111?style=flat&logo=express)
-![NestJS](https://img.shields.io/badge/NestJS-111?style=flat&logo=nestjs)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=flat&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-111?style=flat&logo=redis)
-![Firebase](https://img.shields.io/badge/Firebase-111?style=flat&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-111?style=flat&logo=supabase)
-![Docker](https://img.shields.io/badge/Docker-111?style=flat&logo=docker)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,redis,firebase,supabase,docker)](https://skillicons.dev)
 
 ---
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-111?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111?style=flat&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111?style=flat&logo=tailwindcss)
-![Shadcn_UI](https://img.shields.io/badge/Shadcn_UI-111?style=shadcn)
-![Framer_Motion](https://img.shields.io/badge/Framer_Motion-111?style=flat&logo=framer)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
 
 ---
 
 ### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-111?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=flat&logo=github)
-![Postman](https://img.shields.io/badge/Postman-111?style=flat&logo=postman)
-![Jest](https://img.shields.io/badge/Jest-111?style=flat&logo=jest)
-
+[![Tools](https://skillicons.dev/icons?i=git,github,postman,jest)](https://skillicons.dev)
 
 ---
 
