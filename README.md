@@ -21,6 +21,7 @@ I have hands-on experience with **databases and infrastructure**, including **Po
 
 ### 🎨 Frontend
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,framer)](https://skillicons.dev)
+<img src="https://cdn.simpleicons.org/framer/white" height="40" />
 
 ---
 
