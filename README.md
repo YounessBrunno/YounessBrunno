@@ -10,17 +10,17 @@ I have hands-on experience with **databases and infrastructure**, including **Po
 ## 🧠 My Skills
 
 ### 🔤 Languages
-[![Languages](https://skillicons.dev/icons?i=js,ts,go,sql)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,go,postgres)](https://skillicons.dev)
 
 ---
 
 ### ⚙️ Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,redis,firebase,supabase,docker,nginx,aws)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,redis,firebase,supabase,prisma,docker,nginx,aws)](https://skillicons.dev)
 
 ---
 
 ### 🎨 Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,framermotion)](https://skillicons.dev)
 
 ---
 
