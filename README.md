@@ -30,7 +30,7 @@ I've owned full technical decisions as a **Founding Engineer**: monorepo structu
 ## 💼 Experience
 
 ### Evu &nbsp;—&nbsp; Founding Software Engineer
-`Dec 2025 – Present` &nbsp;·&nbsp; Remote, United States
+`Dec 2025 – Apr 2026` &nbsp;·&nbsp; Remote, United States
 
 > Early-stage startup. Joined as founding engineer and shaped the entire technical foundation from day one.
 
