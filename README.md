@@ -1,168 +1,118 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0d1117&height=180&section=header&text=Youness%20Oukhadjou&fontSize=42&fontColor=58a6ff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%94%20Backend%20%C2%B7%20Systems%20%C2%B7%20Infrastructure&descAlignY=58&descSize=16&descColor=8b949e" width="100%"/>
-</div>
+# Youness Oukhadjou
 
-<div align="center">
+I build backend systems that don’t fall apart when they start to matter.
 
-[![Email](https://img.shields.io/badge/younessoukhadjouu@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:younessoukhadjouu@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=161b22)](https://linkedin.com/in/younessoukhadjou)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/@YounessBrunno-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=161b22)](https://github.com/YounessBrunno)
-&nbsp;
-![Status](https://img.shields.io/badge/Open%20to%20Senior%20%2F%20Staff%20Roles-%23238636?style=flat-square&labelColor=1a7f37)
-
-</div>
-
-<br/>
+Most of my work sits at the boundary between **product requirements and system constraints** — turning vague ideas into structured, predictable, and scalable systems.
 
 ---
 
-## 👋 About Me
+## How I think
 
-I'm a software engineer with a strong **backend focus** — I build scalable, high-performance, and reliable systems that are easy to evolve over time.
+I care less about frameworks and more about:
 
-My work spans **API design, backend architecture, async job pipelines, transaction processing, and infrastructure** — with a constant emphasis on correctness, clean architecture, and system design. I've worked as a **Founding Engineer**, where I owned the entire technical foundation: monorepo structure, service boundaries, deployment topology, and data modeling, from the ground up.
+- where state lives
+- what guarantees actually hold
+- how systems behave under failure
+- how complexity grows over time
 
-I have hands-on experience with **databases and infrastructure** — PostgreSQL, Redis, Firebase, Supabase, Docker, and AWS — and I'm comfortable working across background job systems, queues, and data-intensive workflows.
+I optimize for:
 
-When the product demands it, I ship the frontend too — primarily **Next.js and React** — so features land complete without handoff friction. I care deeply about **performance, testability, and systems that scale** without becoming a maintenance burden.
+- **clarity over cleverness**
+- **explicitness over magic**
+- **systems that are easy to debug at 3am**
 
----
+A lot of early-stage systems don’t fail because of scale —  
+they fail because they become impossible to reason about.
 
-## 💼 Experience
-
-### Evu &nbsp;—&nbsp; Founding Software Engineer
-`Dec 2025 – Present` &nbsp;·&nbsp; Remote, United States
-
-> Early-stage startup. Joined as founding engineer — shaped the entire technical foundation from zero.
-
-- Restructured a fragmented codebase into a **multi-service monorepo** (NestJS · Next.js · Go) — standardized cross-service development and improved long-term maintainability
-- Designed a **modular monolith architecture** (NestJS + PostgreSQL) with clear service boundaries, balancing MVP velocity with future scalability
-- Built a **transaction processing service in Go** with atomic operations, idempotent handling, and persistent state logging for full ledger correctness
-- Deployed a cost-efficient **multi-container stack on EC2** — Dockerized Nginx as a single reverse proxy routing to internal services; full local setup under 9 minutes
-- Implemented a **Next.js BFF layer** to aggregate client-side data and decouple frontend logic from backend services
-- Built the **admin dashboard** using server components, caching, and partial prerendering to reduce render latency on critical paths
-- Structured engineering workflows in **Jira** for coordinated multi-contributor development during MVP phase
-
-<br/>
-
-### Freelance &nbsp;—&nbsp; Software Engineer
-`Nov 2024 – Present` &nbsp;·&nbsp; Remote
-
-- Delivered **7+ production full-stack applications** (Next.js + Node.js) — owned backend architecture, frontend implementation, and third-party integrations end-to-end
-- Built APIs with **Express / NestJS** including auth, RBAC, and structured service layers; integrated AI APIs (Hugging Face, Gemini, OpenAI) into backend workflows
-- Collaborated with founders to translate product requirements into working systems with defined architecture
+I try to prevent that.
 
 ---
 
-## 🛠 Tech Stack
+## What I’ve done recently
 
-### 🔤 Languages
-[![Languages](https://skillicons.dev/icons?i=ts,js,go,postgres,html,css)](https://skillicons.dev)
+### Founding Engineer — early-stage product
 
----
+Came into a messy codebase and turned it into something we could actually build on:
 
-### ⚙️ Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,redis,prisma,nginx,aws,docker)](https://skillicons.dev)
+- collapsed scattered services into a **structured monorepo**
+- designed a **modular monolith (NestJS + PostgreSQL)** instead of jumping to microservices too early
+- built core backend systems that defined the product’s data model and behavior
+- shipped a **Dockerized deployment (EC2 + Nginx)** with a single entry point
+- implemented a **transaction system in Go** with idempotency + strict correctness guarantees
+- introduced a **BFF layer (Next.js)** to stop frontend/backend coupling from getting worse
 
----
-
-### 🎨 Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,framer)](https://skillicons.dev)
-
----
-
-### 🗄️ Databases & Services
-[![Databases](https://skillicons.dev/icons?i=postgres,redis,firebase,supabase)](https://skillicons.dev)
+The goal wasn’t “perfect architecture” —  
+it was **making the system stable enough to evolve without constant rewrites**.
 
 ---
 
-### 🧰 Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,postman,jest,vscode)](https://skillicons.dev)
+### Freelance work
+
+Worked directly with founders shipping products from scratch:
+
+- built and shipped **7+ fullstack apps**
+- designed APIs with **auth, RBAC, and clear service boundaries**
+- integrated AI APIs into real workflows (not demos)
+- cleaned up systems that were already getting hard to maintain
 
 ---
 
-## 🚀 Selected Projects
+## Selected systems
 
-### [Sentivio — Video Emotion Analyzer](https://github.com/YounessBrunno/Sentivio-Emotion-Analyzer)
-`Express` `PostgreSQL` `BullMQ` `Redis` `Next.js` `TypeScript`
+### Sentivio — async video processing
 
-Async video processing pipeline that extracts emotional signals and generates structured timelines and analytics — designed as a professional-grade emotion-insight engine, not an identity system.
+A system that processes video and extracts structured emotional timelines.
 
-- **BullMQ + Redis** for async job offloading — heavy video workloads processed in background, fast API response times maintained under load
-- Custom **signal smoothing and aggregation algorithms** to denoise raw emotion predictions into stable temporal phases with averaged confidence scores
-- Interactive **Next.js + TypeScript** dashboard for timeline visualization, phase breakdowns, and analytical summaries
+- heavy work moved to **queues (Redis + BullMQ)**  
+- API stays fast while jobs run in the background  
+- built custom logic to turn noisy predictions into usable signals  
 
----
-
-### [Cortex Graph — Knowledge Graph API](https://github.com/YounessBrunno/cortex-graph-api)
-`Node.js` `Express` `PostgreSQL` `Zod` `Docker`
-
-Transforms notes, tasks, and insights into a structured, queryable knowledge network — graph-style traversal on PostgreSQL, no graph database required.
-
-- Engineered **multi-level relationship traversal** via CTEs and recursive relational joins
-- **~30% query performance improvement** using PostgreSQL full-text search (FTS) indexing
-- Fully **Dockerized** — complete environment up in under 3 minutes
-- Typed API surface via **Zod** schema validation, reducing runtime errors at the boundary
+Main problem: **CPU-heavy workloads without killing API performance**
 
 ---
 
-### [Velar — Perfume Discovery Platform](https://github.com/YounessBrunno/Velar-Perfume-explorer)
-`Next.js` `TypeScript` `Firebase` `Supabase` `NextAuth` `TanStack Query`
+### Cortex Graph — relational graph layer
 
-Full-stack catalogue platform with 300+ items, admin controls, and optimized media delivery.
+- modeled connected data using **PostgreSQL (not a graph DB)**  
+- built query patterns for multi-level traversal  
+- used CTEs + FTS to keep performance acceptable  
 
-- **30% load time reduction** via TanStack Query caching and optimized data fetching strategies
-- Image upload pipeline cut latency from **6s → under 3s** via Supabase Storage
-- Admin dashboard with **sub-250ms write performance**, CRUD operations, NextAuth authentication
-
----
-
-### [Vetra — AI Mock Interview Platform](https://github.com/YounessBrunno/Ai-Mock-Interview)
-`Next.js` `Clerk` `Firebase` `Zod`
-
-Simulates structured interview sessions with AI-driven feedback. Secure auth via Clerk, schema validation with Zod, and session management backed by Firebase.
+Main problem: **getting graph-like behavior without adding new infrastructure**
 
 ---
 
-### [Vanilla Node.js Static Server](https://github.com/YounessBrunno/vanilla-node.js-static-server)
-`Node.js core` `Zero dependencies`
+### Velar — fullstack system
 
-Apache-style HTTP static file server built from scratch — MIME type detection, efficient file streaming, dynamic directory listings, custom 404 pages. Pure `http`, `fs`, `path`. No frameworks.
+- handled **data consistency across Firebase + Supabase + API layer**  
+- reduced load time by ~30%  
+- built admin workflows with predictable writes  
 
----
-
-### [Vanilla Task Manager REST API](https://github.com/YounessBrunno/vanilla-node.js-task-manager-rest-api)
-`Node.js core` `Zero dependencies`
-
-Full REST API with auth, RBAC, analytics, event logging, and file-based JSON storage — built entirely with `http`, `fs`, `crypto`, `events`, `url`, `path`. Zero frameworks. A study in Node.js internals.
+Main problem: **keeping data flow sane across multiple systems**
 
 ---
 
-## ⚡ Currently
+## What I care about
 
-```ts
-const now = {
-  building:  "Production infrastructure @ Evu — Go services, NestJS monolith, EC2 deployments",
-  exploring: "Advanced PostgreSQL internals, distributed systems patterns, system design at scale",
-  reading:   "Designing Data-Intensive Applications — Kleppmann",
-  open_to:   "Senior Backend · Full-Stack · Founding Engineer roles (remote)",
-};
-```
+- systems that don’t become fragile after 3 features  
+- codebases that another engineer can understand quickly  
+- avoiding “smart” solutions that age badly  
+- being able to answer: *“what happens if this fails?”*  
 
 ---
 
-## 📬 Get in Touch
+## Current direction
 
-Building something ambitious? I'd like to hear about it.
+Leaning more into:
 
-[![Email](https://img.shields.io/badge/younessoukhadjouu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:younessoukhadjouu@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/younessoukhadjou)
+- distributed systems (when they’re actually needed)  
+- performance-sensitive backend work  
+- deeper use of Go for critical paths  
+- system design that holds up past MVP stage  
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d2137,100:0d1117&height=80&section=footer" width="100%"/>
-</div>
+## Contact
+
+github.com/YounessBrunno  
+linkedin.com/in/youness-oukhadjou  
+younessoukhadjouu@gmail.com
