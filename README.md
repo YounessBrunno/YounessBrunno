@@ -139,7 +139,7 @@ Full REST API with auth, RBAC, analytics, logging, and file-based JSON storage â
 
 ## ðŸ“¬ Get in Touch
 
-Open to ** backend**, **full-stack**, or **founding engineer** roles, remote preferred. If you're building something ambitious, reach out.
+Open to **backend**, **full-stack**, or **founding engineer** roles, remote preferred. If you're building something ambitious, reach out.
 
 [![Email](https://img.shields.io/badge/younessoukhadjouu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:younessoukhadjouu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/younessoukhadjou)
