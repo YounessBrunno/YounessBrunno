@@ -1,45 +1,158 @@
-# 👋 Hi, I'm Youness
+<div align="center">
 
-I’m a Software Engineer focused on building scalable, high-performance, and reliable systems.
+```
+╔══════════════════════════════════════════════════════════════╗
+║              YOUNESS OUKHADJOU · SOFTWARE ENGINEER           ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-I work primarily as a **software engineer with a strong backend focus**, using **TypeScript, Node.js, Express.js, NestJS, React, Next.js, and SQL** to design and ship production-ready applications. My experience spans API design, backend architecture, frontend integration, and building end-to-end features with a strong emphasis on correctness and maintainability.
+**I build backend systems that don't fall over.**  
+Founding Engineer · Full-Stack · Open to Senior / Staff roles
 
-I have hands-on experience with **databases and infrastructure**, including **PostgreSQL, Redis, Firebase, Supabase, and Docker**, and I’m comfortable working with background jobs, queues, and data-intensive workflows. I care deeply about **clean architecture, system design, and performance**, and I enjoy building systems that are easy to scale, test, and evolve over time.
+[![Email](https://img.shields.io/badge/Email-younessoukhadjouu%40gmail.com-0d1117?style=flat&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:younessoukhadjouu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=flat&logo=linkedin&logoColor=0A66C2&labelColor=161b22)](https://linkedin.com/in/younessoukhadjou)
+[![GitHub](https://img.shields.io/badge/GitHub-YounessBrunno-0d1117?style=flat&logo=github&logoColor=white&labelColor=161b22)](https://github.com/YounessBrunno)
 
-
-## 🧠 My Skills
-
-### 🔤 Languages
-[![Languages](https://skillicons.dev/icons?i=js,ts,go,postgres)](https://skillicons.dev)
-
----
-
-### ⚙️ Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,redis,firebase,supabase,prisma,docker,nginx,aws)](https://skillicons.dev)
+</div>
 
 ---
 
-### 🎨 Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,framer)](https://skillicons.dev)
+## About
 
+I'm a software engineer with a strong **backend focus** — I design systems that are easy to scale, test, and reason about. I've worked as a **Founding Engineer**, where I owned architecture decisions end-to-end: monorepo structure, service boundaries, deployment topology, and data modeling.
+
+My work spans **REST API design, background job pipelines, graph-based data modeling, transaction processing, and admin tooling** — always with an emphasis on correctness and long-term maintainability over quick hacks.
+
+When I'm not building backend systems, I integrate the frontend layer too — primarily with **Next.js** and **React** — so I can ship complete, production-ready features without handoff friction.
+
+---
+
+## 💼 Experience
+
+### 🟢 Founding Software Engineer — [Evu](https://evu.com) *(Dec 2025 – Present · Remote, US)*
+
+Early-stage startup. I joined as a founding engineer and shaped the entire technical foundation:
+
+- Restructured a fragmented codebase into a **multi-service monorepo** (NestJS, Next.js, Go), standardizing cross-service development and improving long-term maintainability
+- Designed and implemented a **modular monolith architecture** (NestJS + PostgreSQL) with clean service boundaries, balancing velocity with future scalability
+- Built a **transaction processing service in Go** with atomic operations, idempotent handling, and persistent state logging for ledger correctness
+- Deployed a cost-efficient **multi-container stack on EC2** with Dockerized Nginx as a single reverse proxy entry point routing to internal services
+- Built a **Next.js BFF layer** to aggregate data client-side and decouple frontend logic from backend services
+- Implemented **server components, caching, and partial prerendering** in the admin dashboard to reduce render latency on critical paths
+- Structured engineering workflows using **Jira** during MVP phase, enabling coordinated development across contributors
 
 ---
 
-### 🛠 Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,postman,jest)](https://skillicons.dev)
+### 🔵 Freelance Software Engineer *(Nov 2024 – Present · Remote)*
+
+Delivered 7+ production full-stack applications — working directly with founders to design backend architectures and ship functional MVPs:
+
+- Built APIs with **Express / NestJS** including authentication, RBAC, and structured service layers
+- Developed **Next.js + TypeScript** frontends with typed REST contracts, state management, and third-party integrations
+- Integrated **AI APIs** (Hugging Face, Gemini, OpenAI) into backend workflows for automated processing and feature augmentation
 
 ---
 
-## 🚀 Featured Projects  
-- **[Sentivio-Emotion-Analyzer](https://github.com/YounessBrunno/Sentivio-Emotion-Analyzer)** — Sentivio is a high-level emotional intelligence system that  processes any video, interprets emotional states over time, and generates timelines, summaries, and analytics dashboard focusing solely on emotion, never identity. Designed as a professional-grade emotion-insight engine.
-- **[Velar Perfume Explorer](https://github.com/YounessBrunno/Velar-Perfume-explorer)** — web app to browse, filter, and discover fragrances. Built as a fullstack Next.js application with TypeScript, Firebase (Firestore), Supabase (Storage), and NextAuth for authentication.
-- **[Path AI](https://github.com/YounessBrunno/AI-Trip-Planner)** — AI-powered trip planner that generates personalized travel itineraries using the Gemini API. Features authentication with Google and real-time storage with Firebase.
-- **[Cortex Graph API](https://github.com/YounessBrunno/cortex-graph-api)** — Smart knowledge graph API that transforms notes, tasks, and insights into a structured, queryable knowledge network. Built with Express, PostgreSQL, Zod, and Docker.
-- **[Vetra](https://github.com/YounessBrunno/Ai-Mock-Interview)** — AI Mock Interview platform that simulates real interview sessions. Includes secure authentication with Clerk, schema validation with Zod, and data management with Firebase.
-- **[Axiom](https://github.com/YounessBrunno/)** — SaaS landing page with rich animations and a modern UI. Built with React, Shadcn UI components, and Framer Motion for smooth, interactive experiences.
-- **[Vanilla Node.js Static Server](https://github.com/YounessBrunno/vanilla-node.js-static-server)** — Custom static file server built from scratch in Node.js (no frameworks). Features MIME type detection, efficient file  streaming, dynamic directory listings, and custom 404 error pages. A lightweight Apache-style server implemented entirely in vanilla Node.js.
-- **[Vanilla Node.js Task Manager API](https://github.com/YounessBrunno/vanilla-node.js-task-manager-rest-api)** — Task Manager REST API with authentication, role-based access, analytics, logging, and file-based JSON storage. Built entirely with Node.js core modules (`http`, `fs`, `crypto`, `events`, `url`, `path`) — no frameworks.
-- and more...  
+## 🛠 Technical Stack
+
+| Layer | Technologies |
+|---|---|
+| **Languages** | TypeScript · JavaScript · Go · SQL |
+| **Backend** | Node.js · Express · NestJS · REST APIs · BullMQ |
+| **Frontend** | React · Next.js · TailwindCSS · Shadcn/UI · TanStack Query |
+| **Databases** | PostgreSQL · Redis · Firebase · Supabase |
+| **Infrastructure** | Docker · AWS EC2 · NGINX · Prisma |
+| **Tooling** | Git · GitHub · Postman · Jest · Zod · Jira |
 
 ---
+
+## 🚀 Selected Projects
+
+> Projects chosen to demonstrate depth across system design, async processing, and full-stack delivery.
+
+---
+
+### [Sentivio — Video Emotion Analyzer](https://github.com/YounessBrunno/Sentivio-Emotion-Analyzer)
+*Express · PostgreSQL · BullMQ · Redis · Next.js · TypeScript*
+
+A production-grade emotion intelligence system that ingests video, extracts emotional signals, and generates structured timelines and analytics.
+
+- **Async pipeline** with BullMQ + Redis to offload heavy video processing jobs and maintain fast API response times under load
+- **Custom signal processing** — noise-reduction algorithms to smooth raw emotion predictions into stable temporal phases with averaged confidence scores
+- **Interactive Next.js dashboard** visualizing emotion timelines, phase breakdowns, and analytical summaries
+
+---
+
+### [Cortex Graph — Knowledge Graph API](https://github.com/YounessBrunno/cortex-graph-api)
+*Node.js · Express · PostgreSQL · Zod · Docker*
+
+A REST API that models interconnected notes, tasks, and insights as a traversable knowledge graph — without a graph database.
+
+- Engineered **graph-style relational queries** on PostgreSQL using CTEs and recursive joins for multi-level relationship traversal
+- Improved query performance **~30%** via PostgreSQL full-text search (FTS) indexing
+- Fully **Dockerized** with environment parity — setup in under 3 minutes
+- Typed request/response contracts with **Zod** schema validation, reducing runtime errors at the API boundary
+
+---
+
+### [Velar — Perfume Discovery Platform](https://github.com/YounessBrunno/Velar-Perfume-explorer)
+*Next.js · TypeScript · Firebase · Supabase · NextAuth*
+
+Full-stack catalogue platform with 300+ items, admin controls, and optimized media delivery.
+
+- Reduced load time **30%** with TanStack Query caching and data fetching optimizations
+- Built an **image upload pipeline** on Supabase Storage cutting upload latency from 6s to under 3s
+- Admin dashboard with **sub-250ms write performance** via NextAuth + Firestore
+
+---
+
+### [Vetra — AI Mock Interview Platform](https://github.com/YounessBrunno/Ai-Mock-Interview)
+*Next.js · Clerk · Firebase · Zod*
+
+Simulates structured interview sessions with real-time AI feedback, secure authentication, and session management.
+
+---
+
+### [Vanilla Node.js Static Server](https://github.com/YounessBrunno/vanilla-node.js-static-server)
+*Node.js core — zero dependencies*
+
+Custom HTTP static file server built from scratch. MIME detection, file streaming, directory listings, and 404 handling — Apache-style, in pure Node.js.
+
+---
+
+### [Vanilla Task Manager REST API](https://github.com/YounessBrunno/vanilla-node.js-task-manager-rest-api)
+*Node.js core — zero dependencies*
+
+Full REST API with authentication, RBAC, analytics, and file-based JSON storage — using only `http`, `fs`, `crypto`, `events`, `url`, and `path`. No frameworks.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Youness's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YounessBrunno&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YounessBrunno&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YounessBrunno&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e)
+
+</div>
+
+---
+
+## 📬 Let's Connect
+
+I'm open to **senior backend**, **full-stack**, or **founding engineer** roles where I can own meaningful technical decisions.
+
+If you're building something ambitious — reach out.
+
+[![Email](https://img.shields.io/badge/younessoukhadjouu%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:younessoukhadjouu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/younessoukhadjou)
+
+---
+
+<div align="center">
+<sub>Last updated: 2025 · Open to remote opportunities</sub>
+</div>
 
