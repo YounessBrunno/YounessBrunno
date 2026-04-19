@@ -14,7 +14,6 @@
 [![Email](https://img.shields.io/badge/-younessoukhadjouu@gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=161b22)](mailto:younessoukhadjouu@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=161b22)](https://linkedin.com/in/younessoukhadjou)
 [![GitHub](https://img.shields.io/badge/-YounessBrunno-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=161b22)](https://github.com/YounessBrunno)
-![Open to Work](https://img.shields.io/badge/-Open%20to%20Senior%20%2F%20Staff%20roles-238636?style=flat-square&labelColor=1a7f37&color=238636)
 
 </div>
 
