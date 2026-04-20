@@ -33,14 +33,10 @@ I have hands-on experience with **databases and infrastructure**, including **Po
 
 ## 🚀 Projects
 
-<table width="100%"><tr><td align="right"><sub>08 projects</sub></td></tr></table>
-
 ---
 
 ### `01` &nbsp; [Sentivio — Video Emotion Analyzer](https://github.com/YounessBrunno/Sentivio-Emotion-Analyzer)
 
-![backend](https://img.shields.io/badge/backend-EEEDFE?style=flat-square&labelColor=EEEDFE&color=EEEDFE&logoColor=3C3489)
-![](https://img.shields.io/badge/backend-3C3489?style=flat-square&labelColor=EEEDFE&color=EEEDFE&logo=data:image/svg+xml;base64,)
 
 `Express.js` `PostgreSQL` `BullMQ` `Redis` `Next.js` `TypeScript` `Supabase`
 
