@@ -40,7 +40,7 @@ I have hands-on experience with **databases and infrastructure**, including **Po
 
 `Express.js` `PostgreSQL` `BullMQ` `Redis` `Next.js` `TypeScript` `Supabase`
 
-![backend](https://img.shields.io/badge/backend-%23EEEDFE?style=flat-square&color=EEEDFE&labelColor=3C3489&label=)
+
 <kbd>backend</kbd> <kbd>async pipeline</kbd> <kbd>full-stack</kbd>
 
 A professional-grade emotion intelligence system that processes any video, interprets emotional states over time, and generates timelines, summaries, and analytics — focusing solely on emotion, never identity.
