@@ -15,7 +15,7 @@ I have hands-on experience with **databases and infrastructure**, including **Po
 ---
 
 ### ⚙️ Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,redis,firebase,supabase,prisma,docker,nginx,aws)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,redis,firebase,supabase,prisma,docker,nginx,aws)](https://skillicons.dev)
 
 ---
 
