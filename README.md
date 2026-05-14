@@ -20,7 +20,7 @@ I have hands-on experience with **databases and infrastructure**, including **Po
 ---
 
 ### 🎨 Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,reactquery,tailwind,html,css)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tanstackquery,tailwind,html,css)](https://skillicons.dev)
 
 
 
