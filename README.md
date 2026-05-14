@@ -15,12 +15,12 @@ I have hands-on experience with **databases and infrastructure**, including **Po
 ---
 
 ### ⚙️ Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,redis,firebase,supabase,prisma,docker,nginx,aws)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,gin,postgres,mongodb,redis,firebase,supabase,prisma,docker,nginx,aws)](https://skillicons.dev)
 
 ---
 
 ### 🎨 Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tanstackquery,tailwind,html,css)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css)](https://skillicons.dev)
 
 
 
