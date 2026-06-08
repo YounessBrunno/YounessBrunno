@@ -4,7 +4,7 @@
 &nbsp;
 ![](https://img.shields.io/badge/%E2%97%8F_open_to_new_opportunities-0F6E56?style=flat-square)
 
-<p align="center"> <img src="./assets/header.gif" width="800" /> </p>
+<p align="center"> <img src="./resources/gif-1.gif" width="600" style="border-radius: 10px !important;" /> </p>
 
 </div>
 
