@@ -10,8 +10,7 @@
 
 # Youness Oukhadjou
 
-I build **production-grade systems** — from lean APIs to distributed backends.  
-TypeScript & Node.js by default, Go when performance demands it, **always obsessing over architecture.**
+I'm a Software Engineer who likes building things from scratch. I've worked as a founding engineer and freelancer, helping founders move from ideas and product discussions to working software used by real customers. Most of my work is centered around TypeScript, Node.js, Go, and PostgreSQL, with a strong interest in system design, architecture, and building maintainable systems that can evolve as products grow. Whether it's designing APIs, structuring services, deploying infrastructure, or working through product decisions, I enjoy being involved in the entire process of building a company through software.
 
 <br/>
 
@@ -21,14 +20,13 @@ TypeScript & Node.js by default, Go when performance demands it, **always obsess
 ### — Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,go,postgres,html,css" />
+  <img src="https://skillicons.dev/icons?i=ts,js,go,sql,html,css" />
 </p>
 
 ### — Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,redis,firebase,supabase" />
-  <img src="https://cdn.simpleicons.org/bullmq/EAB308" height="48" alt="BullMQ" />
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,postgres,mongodb,redis,firebase,prisma,supabase" />
 </p>
 
 ### — Frontend
