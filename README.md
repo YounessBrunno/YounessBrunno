@@ -4,24 +4,29 @@
 &nbsp;
 ![](https://img.shields.io/badge/%E2%97%8F_open_to_new_opportunities-0F6E56?style=flat-square)
 
+<p align="center"> <img src="./assets/header.gif" width="800" /> </p>
+
 </div>
 
 <br/>
 
-# Youness Oukhadjou
+## 👋 Hi, It's Youness Oukhadjou, Software Engineer <img src="https://github.com/user-attachments/assets/0a7b9778-2f6b-4d32-86eb-9437272887fb" height="30" align="center" />
+
+
+
 
 I'm a Software Engineer who likes building things from scratch. I've worked as a founding engineer and freelancer, helping founders move from ideas and product discussions to working software used by real customers. Most of my work is centered around TypeScript, Node.js, Go, and PostgreSQL, with a strong interest in system design, architecture, and building maintainable systems that can evolve as products grow. Whether it's designing APIs, structuring services, deploying infrastructure, or working through product decisions, I enjoy being involved in the entire process of building a company through software.
 
 <br/>
 
----
-## Tech Stack:
+
+## — Tech Stack:
 
 ### — Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,go,html,css" />
-  <img  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />    
+  <img  height="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />    
 </p>
 
 ### — Backend
