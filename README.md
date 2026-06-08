@@ -1,45 +1,100 @@
-# 👋 Hi, I'm Youness
-
-I’m a Software Engineer focused on building scalable, high-performance, and reliable systems.
-
-I work primarily as a **software engineer with a strong backend focus**, using **TypeScript, Node.js, Express.js, NestJS, React, Next.js, and SQL** to design and ship production-ready applications. My experience spans API design, backend architecture, frontend integration, and building end-to-end features with a strong emphasis on correctness and maintainability.
-
-I have hands-on experience with **databases and infrastructure**, including **PostgreSQL, Redis, Firebase, Supabase, and Docker**, and I’m comfortable working with background jobs, queues, and data-intensive workflows. I care deeply about **clean architecture, system design, and performance**, and I enjoy building systems that are easy to scale, test, and evolve over time.
-
-
-## 🧠 My Skills
-
-### 🔤 Languages
-[![Languages](https://skillicons.dev/icons?i=js,ts,go,postgres)](https://skillicons.dev)
-
+<div align="center">
+```
+// software engineer
+```
+ 
+</div>
+<div align="center">
+![Available](https://img.shields.io/badge/%E2%97%8F%20open%20to%20opportunities-0F6E56?style=flat-square&logoColor=white)
+ 
+</div>
+# Youness Oukhadjou
+ 
+I build **production-grade systems** — from lean APIs to distributed backends.  
+TypeScript & Node.js by default, Go when performance demands it, always obsessing over architecture.
+ 
+<br/>
+## 🔤 Languages
+ 
+![TypeScript](https://img.shields.io/badge/TypeScript-185FA5?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-185FA5?style=flat-square&logo=javascript&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-185FA5?style=flat-square&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-185FA5?style=flat-square&logo=postgresql&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-185FA5?style=flat-square&logo=html5&logoColor=white)
+ 
+## ⚙️ Backend & Data
+ 
+![Node.js](https://img.shields.io/badge/Node.js-0F6E56?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-0F6E56?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-0F6E56?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F6E56?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-0F6E56?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-0F6E56?style=flat-square&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-0F6E56?style=flat-square&logo=supabase&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-0F6E56?style=flat-square&logo=redis&logoColor=white)
+ 
+## 🎨 Frontend
+ 
+![React](https://img.shields.io/badge/React-854F0B?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-854F0B?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-854F0B?style=flat-square&logo=tailwindcss&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-854F0B?style=flat-square&logo=reactquery&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/Shadcn%2FUI-854F0B?style=flat-square&logo=shadcnui&logoColor=white)
+ 
+## 🛠 Infra & Tooling
+ 
+![Docker](https://img.shields.io/badge/Docker-533FAB?style=flat-square&logo=docker&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-533FAB?style=flat-square&logo=amazonec2&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-533FAB?style=flat-square&logo=nginx&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-533FAB?style=flat-square&logo=zod&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-533FAB?style=flat-square&logo=githubactions&logoColor=white)
+ 
+<br/>
 ---
-
-### ⚙️ Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,redis,firebase,supabase,prisma,docker,nginx,aws)](https://skillicons.dev)
-
+ 
+## 💼 Experience
+ 
+**Founding Software Engineer** — [Evu](https://evu.com) · Remote, United States  
+`Dec 2025 – Present`
+ 
+→ Designed a modular monolith (NestJS + PostgreSQL) from scratch — monorepo, multi-service, Docker-deployed on EC2 behind Nginx  
+→ Built a transaction processing service in Go with atomic operations, idempotency, and full audit logging  
+→ Shipped a Next.js BFF layer + admin dashboard with server components & partial prerendering  
+ 
 ---
-
-### 🎨 Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css)](https://skillicons.dev)
-
-
-
+ 
+**Freelance Software Engineer** · Remote  
+`Nov 2024 – Present`
+ 
+→ Delivered 7+ full-stack applications (Next.js + Node.js) — solo, from architecture to deployment  
+→ Integrated Hugging Face, Gemini & OpenAI APIs into production backend workflows  
+→ Built REST APIs using Express/NestJS with RBAC, auth, and structured service layers  
+ 
 ---
-
-### 🛠 Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,postman,jest)](https://skillicons.dev)
-
+ 
+<br/>
+## 🚀 Featured Projects
+ 
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**Sentivio**](https://github.com/YounessBrunno/Sentivio-Emotion-Analyzer) | Video emotion analysis engine — async BullMQ jobs, custom signal smoothing, interactive timelines | Express.js · Redis · Next.js · PostgreSQL |
+| [**Cortex Graph API**](https://github.com/YounessBrunno/cortex-graph-api) | Knowledge graph engine on PostgreSQL — multi-level traversal, FTS, CTEs, fully Dockerized | Node.js · PostgreSQL · Zod · Docker |
+| [**Velar**](https://github.com/YounessBrunno/Velar-Perfume-explorer) | Perfume discovery platform — 300+ items, Firestore + Supabase Storage, sub-250ms writes | Next.js · Firebase · TanStack Query |
+| [**Path AI**](https://github.com/YounessBrunno/AI-Trip-Planner) | AI-powered trip planner generating personalized itineraries via Gemini API | Next.js · Gemini API · Firebase |
+| [**Vetra**](https://github.com/YounessBrunno/Ai-Mock-Interview) | AI mock interview platform — Clerk auth, Zod validation, Firebase data management | Next.js · TypeScript · Firebase |
+| [**Vanilla Node.js Server**](https://github.com/YounessBrunno/vanilla-node.js-static-server) | Static file server from scratch — MIME detection, streaming, directory listings. Zero frameworks | Node.js (core only) |
+ 
+<br/>
 ---
-
-## 🚀 Featured Projects  
-- **[Sentivio-Emotion-Analyzer](https://github.com/YounessBrunno/Sentivio-Emotion-Analyzer)** — Sentivio is a high-level emotional intelligence system that  processes any video, interprets emotional states over time, and generates timelines, summaries, and analytics dashboard focusing solely on emotion, never identity. Designed as a professional-grade emotion-insight engine.
-- **[Velar Perfume Explorer](https://github.com/YounessBrunno/Velar-Perfume-explorer)** — web app to browse, filter, and discover fragrances. Built as a fullstack Next.js application with TypeScript, Firebase (Firestore), Supabase (Storage), and NextAuth for authentication.
-- **[Path AI](https://github.com/YounessBrunno/AI-Trip-Planner)** — AI-powered trip planner that generates personalized travel itineraries using the Gemini API. Features authentication with Google and real-time storage with Firebase.
-- **[Cortex Graph API](https://github.com/YounessBrunno/cortex-graph-api)** — Smart knowledge graph API that transforms notes, tasks, and insights into a structured, queryable knowledge network. Built with Express, PostgreSQL, Zod, and Docker.
-- **[Vetra](https://github.com/YounessBrunno/Ai-Mock-Interview)** — AI Mock Interview platform that simulates real interview sessions. Includes secure authentication with Clerk, schema validation with Zod, and data management with Firebase.
-- **[Axiom](https://github.com/YounessBrunno/)** — SaaS landing page with rich animations and a modern UI. Built with React, Shadcn UI components, and Framer Motion for smooth, interactive experiences.
-- **[Vanilla Node.js Static Server](https://github.com/YounessBrunno/vanilla-node.js-static-server)** — Custom static file server built from scratch in Node.js (no frameworks). Features MIME type detection, efficient file  streaming, dynamic directory listings, and custom 404 error pages. A lightweight Apache-style server implemented entirely in vanilla Node.js.
-- **[Vanilla Node.js Task Manager API](https://github.com/YounessBrunno/vanilla-node.js-task-manager-rest-api)** — Task Manager REST API with authentication, role-based access, analytics, logging, and file-based JSON storage. Built entirely with Node.js core modules (`http`, `fs`, `crypto`, `events`, `url`, `path`) — no frameworks.
-- and more...  
-
----
+ 
+## 📬 Get in touch
+ 
+[![Email](https://img.shields.io/badge/younessoukhadjouu@gmail.com-0F6E56?style=flat-square&logo=gmail&logoColor=white)](mailto:younessoukhadjouu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-185FA5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-2C2C2A?style=flat-square&logo=github&logoColor=white)](https://github.com/YounessBrunno)
+ 
+<br/>
+<div align="center">
+  <sub>Built systems, shipped products, obsessed over correctness.</sub>
+</div>
+ 
