@@ -21,7 +21,7 @@ I'm a Software Engineer who likes building things from scratch. I've worked as a
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,go,html,css" />
-  <img  height="49" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />    
+  <img  height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />    
 </p>
 
 ### — Backend
