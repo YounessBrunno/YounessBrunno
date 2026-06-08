@@ -15,59 +15,42 @@ TypeScript & Node.js by default, Go when performance demands it, **always obsess
 
 <br/>
 
-<table>
-<tr>
-<td align="center"><strong>7+</strong><br/><sub>APPS SHIPPED</sub></td>
-<td align="center"><strong>2+</strong><br/><sub>YRS BUILDING</sub></td>
-<td align="center"><strong>3</strong><br/><sub>LANGUAGES</sub></td>
-<td align="center"><strong>∞</strong><br/><sub>COFFEE CONSUMED</sub></td>
-</tr>
-</table>
+---
+## Tech Stack:
 
-<br/>
+### — Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,go,postgres,html,css" />
+</p>
+
+### — Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,redis,firebase,supabase" />
+  <img src="https://cdn.simpleicons.org/bullmq/EAB308" height="48" alt="BullMQ" />
+</p>
+
+### — Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <img src="https://cdn.simpleicons.org/reactquery/FF4154" height="48" alt="TanStack Query" />
+  <img src="https://cdn.simpleicons.org/shadcnui/FFFFFF" height="48" alt="Shadcn UI" />
+</p>
+
+### — Infra & Tooling
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,githubactions" />
+  <img src="https://cdn.simpleicons.org/zod/3068B7" height="48" alt="Zod" />
+</p>
+```
+
 
 ---
 
-### — LANGUAGES
-
-![TypeScript](https://img.shields.io/badge/TypeScript-185FA5?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-185FA5?style=flat-square&logo=javascript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-185FA5?style=flat-square&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-185FA5?style=flat-square&logo=postgresql&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-185FA5?style=flat-square&logo=html5&logoColor=white)
-
-### — BACKEND & DATA
-
-![Node.js](https://img.shields.io/badge/Node.js-0F6E56?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-0F6E56?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-0F6E56?style=flat-square&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F6E56?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-0F6E56?style=flat-square&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-0F6E56?style=flat-square&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-0F6E56?style=flat-square&logo=supabase&logoColor=white)
-![BullMQ](https://img.shields.io/badge/BullMQ-0F6E56?style=flat-square&logo=redis&logoColor=white)
-
-### — FRONTEND
-
-![React](https://img.shields.io/badge/React-854F0B?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-854F0B?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-854F0B?style=flat-square&logo=tailwindcss&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-854F0B?style=flat-square&logo=reactquery&logoColor=white)
-![Shadcn/UI](https://img.shields.io/badge/Shadcn%2FUI-854F0B?style=flat-square&logo=shadcnui&logoColor=white)
-
-### — INFRA & TOOLING
-
-![Docker](https://img.shields.io/badge/Docker-533FAB?style=flat-square&logo=docker&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-533FAB?style=flat-square&logo=amazonec2&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-533FAB?style=flat-square&logo=nginx&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-533FAB?style=flat-square&logo=zod&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-533FAB?style=flat-square&logo=githubactions&logoColor=white)
-
-<br/>
-
----
-
-### — EXPERIENCE
+## — EXPERIENCE
 
 **Founding Software Engineer** — Evu · Remote, United States &nbsp;&nbsp;&nbsp;&nbsp;`Dec 2025 – Present`
 
@@ -87,7 +70,7 @@ TypeScript & Node.js by default, Go when performance demands it, **always obsess
 
 ---
 
-### — FEATURED PROJECTS
+## — FEATURED PROJECTS
 
 <table>
 <tr>
