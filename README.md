@@ -21,7 +21,7 @@ I'm a Software Engineer who likes building things from scratch. I've worked as a
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,go,html,css" />
-  <img  height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />    
+  <img  height="49" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />    
 </p>
 
 ### — Backend
@@ -45,29 +45,6 @@ I'm a Software Engineer who likes building things from scratch. I've worked as a
   <img src="https://cdn.simpleicons.org/zod/3068B7" height="48" alt="Zod" />
 </p>
 ```
-
-
----
-
-## — EXPERIENCE
-
-**Founding Software Engineer** — Evu · Remote, United States &nbsp;&nbsp;&nbsp;&nbsp;`Dec 2025 – Present`
-
-→ &nbsp;Designed modular monolith (NestJS + PostgreSQL) from scratch — monorepo, multi-service, Docker-deployed on EC2 behind Nginx  
-→ &nbsp;Built transaction processing service in Go with atomic operations, idempotency, and full audit logging  
-→ &nbsp;Shipped Next.js BFF layer + admin dashboard with server components & partial prerendering  
-
-<br/>
-
-**Freelance Software Engineer** · Remote &nbsp;&nbsp;&nbsp;&nbsp;`Nov 2024 – Present`
-
-→ &nbsp;Delivered 7+ full-stack applications (Next.js + Node.js) — solo, from architecture to deployment  
-→ &nbsp;Integrated Hugging Face, Gemini & OpenAI APIs into production backend workflows  
-→ &nbsp;Built REST APIs using Express/NestJS with RBAC, auth, and structured service layers  
-
-<br/>
-
----
 
 ## — FEATURED PROJECTS
 
