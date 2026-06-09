@@ -4,13 +4,14 @@
 &nbsp;
 ![](https://img.shields.io/badge/%E2%97%8F_open_to_new_opportunities-0F6E56?style=flat-square)
 
-<p align="center"> <img src="./resources/gif-1.gif" width="600" style="border-radius: 10px !important;" /> </p>
+<img src="./resources/gif-1.gif" width="600" />
+
 
 </div>
 
 <br/>
 
-## 👋 Hi, It's Youness Oukhadjou, Software Engineer <img src="https://github.com/user-attachments/assets/0a7b9778-2f6b-4d32-86eb-9437272887fb" height="30" align="center" />
+## 👋 Youness Oukhadjou • Software Engineer <img src="https://github.com/user-attachments/assets/0a7b9778-2f6b-4d32-86eb-9437272887fb" height="30" align="center" />
 
 
 
