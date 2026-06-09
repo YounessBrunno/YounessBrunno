@@ -58,76 +58,132 @@ I'm a Software Engineer who likes building things from scratch. I've worked as a
 <tr>
 <td width="50%" valign="top">
 
-**[Sentivio](https://github.com/YounessBrunno/Sentivio-Emotion-Analyzer)** — Video Emotion Analyzer
+**[Sentivio](https://github.com/YounessBrunno/Sentivio-Emotion-Analyzer)** — Emotion Intelligence Engine
 
-Video emotion analysis engine — async BullMQ jobs, custom signal smoothing, interactive timelines.
+Professional-grade video emotion analysis system that processes emotional signals over time, generating interactive timelines, summaries, and analytics dashboards while preserving identity privacy.
 
-![Express.js](https://img.shields.io/badge/Express.js-1a1a1a?style=flat-square&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-1a1a1a?style=flat-square&logo=redis&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-1a1a1a?style=flat-square&logo=express&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-1a1a1a?style=flat-square&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-1a1a1a?style=flat-square&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-**[Cortex Graph](https://github.com/YounessBrunno/cortex-graph-api)** — Knowledge Graph Engine
+**[Cortex Graph](https://github.com/YounessBrunno/cortex-graph-api)** — Knowledge Graph API
 
-Graph-style querying on PostgreSQL — multi-level traversal, FTS, CTEs, Dockerized, 30% perf gain.
+Graph-driven API for organizing notes, tasks, and relationships into a structured queryable network with multi-level traversal, relational linking, and modular REST architecture.
 
 ![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-1a1a1a?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-1a1a1a?style=flat-square&logo=zod&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-**[Velar](https://github.com/YounessBrunno/Velar-Perfume-explorer)** — Perfume Discovery Platform
+**[Velar](https://github.com/YounessBrunno/Velar-Perfume-explorer)** — AI Perfume Discovery Platform
 
-300+ items, Firestore + Supabase Storage, sub-250ms writes, 30% load time reduction.
+Emotion-driven fragrance discovery platform featuring intelligent search, scalable admin management, authentication, and AI-focused scent exploration experiences.
 
 ![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=white)
-![TanStack](https://img.shields.io/badge/TanStack-1a1a1a?style=flat-square&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-1a1a1a?style=flat-square&logo=supabase&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth-1a1a1a?style=flat-square&logoColor=white)
+![TanStack](https://img.shields.io/badge/TanStack_Query-1a1a1a?style=flat-square&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-**[Path AI](https://github.com/YounessBrunno/AI-Trip-Planner)** — AI Trip Planner
+**[Path AI](https://github.com/YounessBrunno/AI-Trip-Planner)** — AI Travel Planner
 
-Personalized travel itineraries via Gemini API, Google auth, real-time Firebase storage.
+AI-powered itinerary generator using Gemini API to create personalized travel experiences with Google authentication and real-time Firebase synchronization.
 
 ![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-1a1a1a?style=flat-square&logo=google&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=white)
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-**[Vetra](https://github.com/YounessBrunno/Ai-Mock-Interview)** — AI Mock Interview
+**[Vetra](https://github.com/YounessBrunno/Ai-Mock-Interview)** — AI Interview Simulator
 
-Simulates real interview sessions — Clerk auth, Zod validation, Firebase data management.
+AI-driven mock interview platform that simulates technical interview sessions with secure authentication, schema validation, and structured session management.
 
 ![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-1a1a1a?style=flat-square&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-1a1a1a?style=flat-square&logo=zod&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-1a1a1a?style=flat-square&logo=firebase&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-**[Vanilla Node Server](https://github.com/YounessBrunno/vanilla-node.js-static-server)** — Zero Frameworks
+**[Axiom](https://github.com/YounessBrunno/)** — SaaS Landing Experience
 
-Static file server from scratch — MIME detection, streaming, directory listings. Pure Node.js core.
+Modern SaaS landing page focused on premium UI/UX, rich motion design, interactive sections, and polished frontend experiences.
 
-![Node.js](https://img.shields.io/badge/Node.js_core_only-1a1a1a?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-1a1a1a?style=flat-square&logo=framer&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/shadcn/ui-1a1a1a?style=flat-square&logoColor=white)
 
 </td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**[Vanilla Node Server](https://github.com/YounessBrunno/vanilla-node.js-static-server)** — Static File Server
+
+Framework-free static server built directly on Node.js core modules with streaming, MIME resolution, directory indexing, configurable routing, and centralized logging.
+
+![Node.js](https://img.shields.io/badge/Node.js_Core-1a1a1a?style=flat-square&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**[Vanilla Node Task Manager](https://github.com/YounessBrunno/vanilla-node.js-task-manager-rest-api)** — REST API Without Frameworks
+
+Task management REST API featuring authentication, RBAC, analytics, logging, and JSON-based persistence built entirely using Node.js core modules.
+
+![Node.js](https://img.shields.io/badge/Node.js_Core-1a1a1a?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-1a1a1a?style=flat-square&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**[Go Reverse Proxy](https://github.com/YounessBrunno/Go-HTTP-Reverse-Proxy-with-Traffic-Shaping)** — Traffic Shaping Reverse Proxy
+
+Lightweight reverse proxy built in vanilla Go that forwards HTTP traffic while applying traffic shaping controls and request flow management.
+
+![Go](https://img.shields.io/badge/Go-1a1a1a?style=flat-square&logo=go&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-1a1a1a?style=flat-square&logoColor=white)
+![Reverse Proxy](https://img.shields.io/badge/Reverse_Proxy-1a1a1a?style=flat-square&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+
 </table>
 
 <br/>
