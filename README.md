@@ -190,20 +190,6 @@ Lightweight reverse proxy built in vanilla Go that forwards HTTP traffic while a
 
 ---
 
-### — GITHUB STATS
-
-<div align="center">
-
-![Youness's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YounessBrunno&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&icon_color=0F6E56)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YounessBrunno&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa)
-
-</div>
-
-<br/>
-
----
-
 ### — GET IN TOUCH
 
 [![Email](https://img.shields.io/badge/younessoukhadjouu@gmail.com-0F6E56?style=flat-square&logo=gmail&logoColor=white)](mailto:younessoukhadjouu@gmail.com)
