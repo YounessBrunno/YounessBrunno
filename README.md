@@ -11,7 +11,7 @@
 
 <br/>
 
-## 👋 Youness Oukhadjou • Software Engineer <img src="https://github.com/user-attachments/assets/0a7b9778-2f6b-4d32-86eb-9437272887fb" height="30" align="center" />
+## 👋 Youness • Software Engineer <img src="https://github.com/user-attachments/assets/0a7b9778-2f6b-4d32-86eb-9437272887fb" height="30" align="center" />
 
 
 
