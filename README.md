@@ -194,7 +194,7 @@ Lightweight reverse proxy built in vanilla Go that forwards HTTP traffic while a
 
 [![Email](https://img.shields.io/badge/younessoukhadjouu@gmail.com-0F6E56?style=flat-square&logo=gmail&logoColor=white)](mailto:younessoukhadjouu@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-185FA5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-185FA5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youness-oukhadjou)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=flat-square&logo=github&logoColor=white)](https://github.com/YounessBrunno)
 
