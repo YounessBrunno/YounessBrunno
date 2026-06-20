@@ -47,7 +47,7 @@ I'm a Software Engineer who likes building things from scratch. I've worked as a
 ### — Infra & Tooling
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,githubactions" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,githubactions,npm,pnpm" />
   <img src="https://cdn.simpleicons.org/zod/3068B7" height="48" alt="Zod" />
 </p>
 ```
