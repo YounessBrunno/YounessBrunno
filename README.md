@@ -39,7 +39,7 @@ I'm a Software Engineer who likes building things from scratch. I've worked as a
 ### — Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
   <img src="https://cdn.simpleicons.org/reactquery/FF4154" height="48" alt="TanStack Query" />
   <img src="https://cdn.simpleicons.org/shadcnui/FFFFFF" height="48" alt="Shadcn UI" />
 </p>
